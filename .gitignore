@@ -1,0 +1,15 @@
+# Entorno virtual
+venv/
+
+# Variables de entorno
+.env
+
+# Archivos Python
+__pycache__/
+
+# Base de datos local
+*.db
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
