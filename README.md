@@ -8,13 +8,6 @@ API REST construida con FastAPI, conectada a PostgreSQL en la nube y desplegada 
 
 ## 🌍 Producción
 
-Base URL:
-
-
-
-https://carapp-backend-34v5.onrender.com
-
-
 
 Documentación interactiva (Swagger):
 
