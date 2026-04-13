@@ -144,10 +144,6 @@ uvicorn app.main:app --reload
 
 ## 🔗 Repositorio del Frontend
 
-Demo pública:
-
-https://playful-tiramisu-85452d.netlify.app
-
 \---
 
 ## 👨‍💻 Autor
